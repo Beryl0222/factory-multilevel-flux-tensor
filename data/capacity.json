@@ -1,0 +1,11 @@
+{
+  "coarse_grid": [
+    160,
+    160
+  ],
+  "refined_patches": 6000,
+  "max_level": 4,
+  "steps": 8,
+  "peak_scratch_bytes": 13631488,
+  "seed": 8991
+}
